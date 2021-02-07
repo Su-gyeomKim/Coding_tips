@@ -1,5 +1,6 @@
 #!/bin/bash
 #https://mug896.github.io/bash-shell/shebang.html
+#https://linuxconfig.org/how-do-i-print-all-arguments-submitted-on-a-command-line-from-a-bash-script
 :<< COMMENT
 She (#) bang (!) 또는 shabang, hashbang 라인은 스크립트 파일의 첫줄에 사용하여 스크립트가 어떤 명령에 의해 실행될지를 지정합니다. 
 프로그램의 경로는 절대경로나 현재 디렉토리로부터 상대경로를 사용할 수 있으며 변수는 사용할 수 없습니다. 
